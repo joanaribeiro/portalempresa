@@ -24,7 +24,7 @@
 		<version.hibernate.validator>5.4.1.Final</version.hibernate.validator>
 		<version.jsp>2.3.1</version.jsp>
 		<version.jstl>1.2.1</version.jstl>
-		<version.postgresql>42.2.11</version.postgresql>
+		<version.postgresql>42.4.1</version.postgresql>
 		<version.servletapi>3.1.0</version.servletapi>
 		<version.springframework>5.2.4.RELEASE</version.springframework>
 		<version.tld>1.1.2</version.tld>
